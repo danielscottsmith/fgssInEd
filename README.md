@@ -1,7 +1,7 @@
 # Replication Package
->### Women, World Society, and the Expansion of Academic Knowledge in Education.
+>### Women, World Society, and the Expansion of Feminist, Gender, Sex, and Sexuality Research in Education, 1910–2010.
 
-This is a working project directory and will be made into a stable reproduction package, _eventually_. The main goal is to understand the evolution of research on gender within the field of education using every article published in journals with "educ*" or "teach" in the title and hosted by JSTOR, 1900–2022. 
+This is a working project directory and will be made into a stable reproduction package, _eventually_. The main goal is to understand the evolution of research on FGSS within the field of education using every article published in journals with "educ*" or "teach" in the title and hosted by JSTOR, 1900–2022. 
 
 Currently, the strategy is to run topic models to identify the latent topic of gender/sex/sexuality, and then explain variation in article's focus on that topic over time using logitudinal regression models.
 
@@ -13,7 +13,7 @@ Below is a map of the directory with annotations for general orientation.
     ├── LICENSE
     ├── README.md            <- The top-level README for researchers using this project.
     │    
-    ├── models                <- Trained and serialized models, model predictions, or model summaries
+    ├── models                <- Trained and serialized LDA models, model predictions, or model summaries
     │
     ├── notebooks             <- Jupyter notebooks. Naming convention is a number (for order of analysis).
     │
